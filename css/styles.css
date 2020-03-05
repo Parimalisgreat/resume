@@ -261,6 +261,13 @@ body
   text-align: center;
   width: 100%;
 }
+#row .in
+{
+	 color: #CB4335!important;
+  text-align: center;
+  margin-top: 3%;
+  width: 100%;
+}
 .col-lg-5  .in
 {
   font-size: 50px;
