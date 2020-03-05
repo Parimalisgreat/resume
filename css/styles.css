@@ -249,11 +249,16 @@ body
   font-family: 'Odibee Sans';
   color: #4D5456;
 }
-#professional .in
+ .in
 {
   color: #CB4335!important;
   text-align: center;
   margin-top: 3%;
+  width: 100%;
+}
+#professional .in
+{
+  text-align: center;
   width: 100%;
 }
 .col-lg-5  .in
@@ -423,4 +428,3 @@ body
 
 
 }
-
