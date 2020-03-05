@@ -261,9 +261,9 @@ body
   text-align: center;
   width: 100%;
 }
-#INTRO .in
+.col-lg-5 .in
 {
-	 color: #CB4335!important;
+  color: #CB4335!important;
   text-align: center;
   margin-top: 3%;
   width: 100%;
