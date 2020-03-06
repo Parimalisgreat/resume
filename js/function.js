@@ -10,3 +10,7 @@ window.addEventListener('load',()=>{
  $(document).ready(function(){
   $('[data-toggle="tooltip"]').tooltip();
 });
+//navbar auto close when press a nav links
+$('.navbar-nav>li>a').on('click', function(){
+    $('.navbar-collapse').collapse('hide');
+});
